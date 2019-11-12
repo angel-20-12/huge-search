@@ -1,1 +1,1 @@
-# ba-dinner-shopping-list
+Вроде как готово.
